@@ -2,9 +2,9 @@
 
 /**
  * print_last_digit - Prints the last digit of a number
- * @c: single letter input
+ * @n: The number to be treated
  *
- * Return: 1 if int c is lowercase, 0 if otherwise
+ * Return: Value of the last digit of number
  */
 
 int print_last_digit(int n)
